@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GAYQOXMG6LYCHAAPJQOTH6TQQFJ4KXT7EPXSD43SRPET2L5VAPTM56XH"
+"GDXUV5EDLAM2DHVO7GHNN7JOA33523N66RGY6L7OWJHPMSLTJ4GUM3GW"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
 ORG_NAME="Cryptocurrency"
 ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="The lemon (Citrus × limon) is a hybrid citrus tree of cultivated origin. The fruit are used primarily for their juice, though the pulp and rind are also used, primarily in cooking or mixing. Lemon juice is about 5% citric acid, which gives lemons a sour taste and a pH of 2 to 3."
+ORG_DESCRIPTION="xEternal is an American video game developer based in Richardson, Texas. It was founded on February 1, 1991, by four members of the computer company Softdisk: programmers John Carmack and John Romero, game designer Tom Hall, and artist Adrian Carmack."
 ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/7pL4y5J/lemon.png"
+ORG_LOGO="https://i.ibb.co/L17xsyk/7d7a428024d9490d05440c6e965546e4.png"
 ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
 
 
 [[CURRENCIES]]
-code="xLEM"
-issuer="GAYQOXMG6LYCHAAPJQOTH6TQQFJ4KXT7EPXSD43SRPET2L5VAPTM56XH"
+code="xEternal"
+issuer="GDXUV5EDLAM2DHVO7GHNN7JOA33523N66RGY6L7OWJHPMSLTJ4GUM3GW"
 anchor_asset="false"
-name="Lemon Coin"
-desc="The lemon (Citrus × limon) is a hybrid citrus tree of cultivated origin. The fruit are used primarily for their juice, though the pulp and rind are also used, primarily in cooking or mixing. Lemon juice is about 5% citric acid, which gives lemons a sour taste and a pH of 2 to 3."
-image="https://i.ibb.co/7pL4y5J/lemon.png"
+name="xEternal"
+desc="xEternal is an American video game developer based in Richardson, Texas. It was founded on February 1, 1991, by four members of the computer company Softdisk: programmers John Carmack and John Romero, game designer Tom Hall, and artist Adrian Carmack."
+image="https://i.ibb.co/L17xsyk/7d7a428024d9490d05440c6e965546e4.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#LemonCoin was issued using the open and inclusive Stellar blockchain network.
+#xEternal was issued using the open and inclusive Stellar blockchain network.
